@@ -7,11 +7,11 @@ A simple Tic-Tac-Toe game built using Unity with a focus on clean UI, responsive
 This game replicates the classic Tic-Tac-Toe experience where two players take turns marking X or O on a 3x3 grid. The first player to align three marks horizontally, vertically, or diagonally wins the game. The game ends in a draw if the grid is filled without any player achieving alignment.
 
 ### Features
-- []**Interactive UI**: Playable grid with responsive button clicks.
-- []**Win Detection**: Checks for horizontal, vertical, and diagonal wins.
-- []**Draw Handling**: Ends the game if the grid is filled without a winner.
-- []**Bug-Free Gameplay**: Thoroughly tested to ensure zero bugs or console errors.
-- []**WebGL Build**: Hosted online for easy access and playability.
+- **Interactive UI**: Playable grid with responsive button clicks.
+- **Win Detection**: Checks for horizontal, vertical, and diagonal wins.
+- **Draw Handling**: Ends the game if the grid is filled without a winner.
+- **Bug-Free Gameplay**: Thoroughly tested to ensure zero bugs or console errors.
+- **WebGL Build**: Hosted online for easy access and playability.
 
 ## Gameplay Instructions
 
@@ -26,4 +26,4 @@ This game replicates the classic Tic-Tac-Toe experience where two players take t
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/tic-tac-toe
+   git clone https://github.com/Syedateeq160/Tic-tac-toc-unity-ui.git
